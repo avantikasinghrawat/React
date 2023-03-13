@@ -1,0 +1,927 @@
+1....................>
+<html>
+ <head>
+ <script>
+ document.write('Asha rawat');
+</script>
+ </head>
+<body>
+ </body>
+ </html>
+2.
+
+<html>
+    <head>
+    <script>
+    document.write('Hello <br>');
+    document.write('shalu rawat');
+</script>
+    </head>
+<body>
+    </body>
+    </html>
+3--------------------------->.
+<html>
+    <head>
+    <script>
+   var a = 2;
+   var b=3;
+   sum=a+b;
+   document.write('sum of two Numbers>> '+ sum);
+</script>
+    </head>
+<body>
+    </body>
+    </html>
+4.
+
+<html>
+    <head>
+    <script>
+   var a=10;
+   var b=5;
+   divied =a/b;
+   document.write('divied of two Numbers /', divied);
+</script>
+    </head>
+<body>
+    </body>
+    </html>
+5.
+a.
+<html>
+    <head>
+    <script>
+   var a=-5;
+   var b=8;
+   var c=6;
+   sum =a+b*c;
+   document.write('answer ',sum);
+</script>
+    </head>
+<body>
+    </body>
+    </html>
+b.
+<html>
+    <head>
+    <script>
+   var a=55;
+   var b=9;
+   var c=9;
+   sum =(a+b)%c;
+   document.write('answer ',sum);
+</script>
+    </head>
+<body>
+    </body>
+    </html>
+c.
+<html>
+    <head>
+    <script>
+   var a=20;
+   var b=-3;
+   var c=5;
+   var d=8;
+   result =a+b*c/d;
+   document.write('answer ',result);
+</script>
+    </head>
+<body>
+    </body>
+    </html>
+d.
+<html>
+    <head>
+    <script>
+   var a=5;
+   var b=15;
+   var c=3;
+   var d=2;
+   var e=8;
+    var f=3;
+   result =a+b/c*d-e%f;
+   document.write('answer ',result);
+</script>
+    </head>
+<body>
+    </body>
+    </html>
+6.
+<html>
+    <head>
+        <script>
+        var a=prompt('enter first number');
+        var b=prompt('enter second number');
+        multiply=a*b;
+        document.write('',multiply);
+       
+        </script>
+    </head>
+</html>
+
+7.
+<html>
+    <head>
+        <script>
+        var a=10;
+        var b=5;
+        sum=a+b;
+        document.write(''+ sum);
+    
+        multiply=a*b;
+        document.write('<br>', multiply);
+            
+            subtract=a-b;
+        document.write('<br>', subtract,);
+            
+             divide=a/b;
+        document.write('<br>', divide,);
+        
+           remainder=a%b;
+        document.write('<br>',  remainder,);
+        </script>
+    </head>
+</html>
+8.
+<html>
+    <head>
+        <script>
+            var a=parseInt(prompt('enter a integar number'));
+            var i;
+            for(i=1;i<=10;i++){
+            let b=i*a;
+            document.write("<br>",+b);
+            }
+        </script>
+    </head>
+<body>
+
+</body>
+</html>
+
+9.
+<html>
+    <head>
+        <script>
+            let radius=6;
+            let aera=3.14radiusradius;
+            let perimeter=23.14radius;
+            document.write( area," <br>",perimeter);
+            
+        </script>
+    </head>
+    <body>
+    </body>
+</html>
+10.
+<html>
+    <head>
+        <script>
+            let a=2;
+            let b=4;
+            let c=6;
+            average = (a+b+c)/3
+            document.write(" ",average);
+            
+        </script>
+    </head>
+    <body>
+    </body>
+</html>
+11.----------------------------->
+12.
+<html>
+    <head>
+        <script>
+            let a = prompt('Enter the second no: ');
+            let b = prompt('Enter the second no: ');
+            let=c;
+            c=a;
+            a=b;
+            b=c;
+            document.write(The value of a after swapping: ${a});
+            document.write(The value of a after swapping: ${a});
+        </script>
+    </head>
+<body>
+</body>
+</html>
+13.
+<html>
+    <head>
+        <script>
+           var a;
+           var a=parseInt(prompt("enter the number:"));
+         
+
+                 if(a==0)
+                 {
+                     document.write('zero');
+             }
+             else
+                 {
+                 
+                     document.write('postive no');
+                }
+           
+        </script>
+    </head>
+<body>
+</body>
+</html>
+
+14.
+<html>
+    <head>
+        <script>
+           var a,b;
+           var a=parseInt(prompt("enter 1no:"));
+            var b=parseInt(prompt("enter 2nd:"));
+
+                 if(a>b)
+                 {
+                     document.write(a);
+             }
+             else
+            
+                 if(b>a)
+                 {
+                 
+                     document.write(b);
+                }
+           
+        </script>
+    </head>
+<body>
+</body>
+</html>
+
+15.
+<html>
+    <head>
+        <script>
+          
+           var a=parseInt(prompt("enter the number:"));
+         
+
+                 if(a==0)
+                 {
+                     document.write('nagative no');
+             }
+             else
+                 {
+                 
+                     document.write('postive no');
+                }
+           
+        </script>
+    </head>
+<body>
+</body>
+</html>
+16.
+<html>
+    <head>
+        <script>
+          
+    var a=parseInt(prompt("enter a no:"));
+                 if(a%2==0)
+                 {
+                     document.write('even o');
+             }
+             else
+                 {
+                 
+                     document.write('odd no');
+                }
+           
+        </script>
+    </head>
+<body>
+</body>
+</html>
+17.
+<html>
+    <head>
+        <script>
+          
+    var a=parseInt(prompt("enter 1no:"));
+                 if(a>=18)
+                 {
+                     document.write('you can vote');
+             }
+             else
+                 {
+                 
+                     document.write('you can not vote');
+                }
+           
+        </script>
+    </head>
+<body>
+</body>
+</html>
+
+18.
+<html>
+    <head>
+        <script>
+           
+    var a=parseInt(prompt("enter a no:"));
+                 if(a>=6)
+                 {
+                     document.write('you go to school');
+             }
+             else
+                 {
+                 
+                     document.write('you not go to school');
+                }
+           
+        </script>
+    </head>
+<body>
+</body>
+</html>
+19.
+<html>
+    <head>
+        <script>
+           var a=parseInt(prompt("enter the number:"));
+         
+
+                 if(a>0)
+                 {
+                     document.write(' postive no');
+                }
+                else if (a==0)
+                {
+                    document.write('zero');
+                }
+                
+             else
+                 {
+                 
+                     document.write('nagative no');
+                }
+           
+        </script>
+    </head>
+<body>
+</body>
+</html>
+20.
+
+<html>
+    <head>
+        <script>
+           var a,b,c;
+           var a=parseInt(prompt("enter 1no:"));
+            var b=parseInt(prompt("enter 2nd:"));
+             var c=parseInt(prompt("enter 3rd:"));
+             if(a>b)
+             {
+                 if(a>c)
+                 {
+                     document.write(a);
+                 }
+                 else
+                 {
+                     document.write(c);
+                 }
+             }
+             else
+             {
+                 if(b>c)
+                 {
+                     document.write(b);
+                 }
+                 else
+                 {
+                     document.write(c);
+                 }
+             }
+           
+        </script>
+    </head>
+<body>
+</body>
+</html>
+
+21.
+<html>
+<head>
+<script>
+    var par=parseInt(prompt("Enter a totle number :"));
+    var temp = parseInt((par*100)/600);
+    if(temp>=36){
+        document.write("Pass");
+    }else{
+        document.write("Fail");
+    }
+</script>
+</head>
+<body>
+</body>
+</html>
+22.--------------------------->
+23.----------------------------->
+24.
+
+<html>
+    <head>
+        <script>
+ let par=parseInt(prompt("Enter a number :"));
+switch(par) 
+{ 
+case 1: 
+document.write('one'); 
+break; 
+case 2: 
+document.write('Two'); 
+break; 
+case 3: 
+document.write('three'); 
+break; 
+default: 
+document.write("Not Between 1 and 3"); 
+break; 
+} 
+
+        </script>
+    </head>
+<body>
+</body>
+</html>
+
+25.
+<html>
+    <head>
+        <script>
+            var a=1;
+            while(a<=5)
+            {
+                document.write("Hello<br>");
+                a++;
+            }
+        </script>
+    </head>
+<body>
+    
+</body>
+</html>
+26.
+<html>
+    <head>
+        <script>
+            var a=1;
+            while(a<=10)
+            {
+                document.write(" <br>",a);
+                a++;
+            }
+        </script>
+    </head>
+<body>
+    
+</body>
+</html>
+
+27.
+
+<html>
+    <head>
+        <script>
+            var a=10;
+            while(a>=1)
+            {
+                document.write(" <br>",a);
+                a--;
+            }
+        </script>
+    </head>
+<body>
+    
+</body>
+</html>
+28.
+<html>
+<head>
+<script>
+var  t=3;
+var  i=1;
+while(i<=20)
+{
+document.write(t+  "  X  "  +i+  "  =  "  +i*t+   "<br>");
+i++;
+}
+</script>
+</head>
+<body>
+</body>
+</html>
+
+29.
+
+<html>
+    <head>
+        <script>
+            let a=1;
+            let sum=0;
+            while(a<=10)
+            {
+                document.write("   <br>",a);
+                sum=sum+a;
+                a++;
+            }
+            
+            {
+                document.write(' <br> sum=',sum);
+            }
+            
+        </script>
+    </head>
+<body>
+    
+</body>
+</html>
+30.
+<html>
+    <head>
+        <script>
+            var a=1;
+            do
+            {
+                document.write(" <br>",a);
+                a++;
+            }while(a<=10)
+        </script>
+    </head>
+<body>
+    
+</body>
+</html>
+31-------------------->
+32.
+<html>
+    <head>
+        <script>
+            var i;
+        for(i=1;i<=10;i++)
+            {
+                document.write(" <br>",i);
+               
+            }
+        </script>
+    </head>
+<body>
+    
+</body>
+</html>
+33.
+<html>
+    <head>
+        <script>
+            let i;
+            let j;
+             for(i=1;i<=5;i++)
+    {
+        for(j=1;j<=5;j++)
+        {
+            document.write("*",);
+        }
+        document.write("<br>");
+    }
+        </script>
+    </head>
+<body>
+</body>
+</html>
+
+34.
+
+<html>
+    <head>
+        <script>
+            let i;
+            let j;
+             for(i=1;i<=5;i++)
+    {
+        for(j=1;j<=i;j++)
+        {
+            document.write("*",);
+        }
+        document.write("<br>");
+    }
+        </script>
+    </head>
+<body>
+</body>
+</html>
+
+35.
+<html>
+    <head>
+        <script>
+            let i;
+            let j;
+             for(i=1;i<=5;i++)
+    {
+        for(j=1;j<=i;j++)
+        {
+            document.write("",i);
+        }
+        document.write("<br>");
+    }
+        </script>
+    </head>
+<body>
+</body>
+</html>
+36.
+<html>
+    <head>
+        <script>
+            let i;
+            let j;
+             for(i=1;i<=5;i++)
+    {
+        for(j=1;j<=i;j++)
+        {
+            document.write("",j);
+        }
+        document.write("<br>");
+    }
+        </script>
+    </head>
+<body>
+</body>
+</html>
+
+37.
+<html>
+<body>
+<script>
+var i, j;
+for(i=1; i<=5; i++)
+{
+ for(j=1;j<=i;j++)
+ {
+     if((i+j)%2==0)
+     {
+         document.write("1");
+     }else{
+         document.write("0");
+     }
+ }
+ document.write("<br>");
+}
+</script>
+</body>
+</html>
+38.------------------------------------>
+39.
+let n = 4;
+let string = "";
+for (let i = 1; i <= n; i++) {
+  for (let j = 1; j <= n - i; j++) {
+    string += " ";
+  }
+  for (let k = 0; k < 2 * i - 1; k++) {
+    string += "*";
+  }
+  string += "\n";
+}
+console.log(string);
+40.------------------------------------>
+41.
+      <html>
+        <head>
+            <script>
+          for(i=1;i<=5;i++)
+    {
+        for(j=1;j<=i;j++)
+        {
+            document.write(" * ",);
+        }
+        document.write("<br>");
+    }
+           for(i=4;i>=1;i--)
+    {
+        for(j=i;j>=1;j--)
+        {
+            document.write(" * ",);
+        }
+        document.write("<br>");
+    }
+    </script>
+    </head>
+    <body>
+    </body>
+    </html> 
+
+42.
+<html>
+    <head>
+        <script>
+{
+    let num,r,sum=0;
+    num = parseInt(prompt("Enter of aray value : "));
+    while(num>0)
+    {
+        r = num % 10;
+        sum = sum + r;
+        num = num / 10;
+    }
+    document.write("Sum Of Digits = ",sum);
+}
+
+</script>
+</head>
+</html>
+
+43.
+<html>
+    <head>
+        <script>
+            let a ;
+    for(a=1;a<=99;a++)
+    if(a%2==1)
+    {
+   document.write('<br>',a);
+    }
+        </script>
+    </head>
+<body>
+</body>
+</html>
+44.
+
+<html>
+    <head>
+        <script>
+
+var i;
+
+for(i=1;i<=100;i++)
+{
+    if(i%3==0 && i%5==0)
+    {
+        document.write("<br>",i);
+    }
+}
+
+</script>
+</head>
+</html>
+
+45.
+<html>
+    <head>
+        <script>
+        
+let a=[10,20,30,40,50,60]; 
+
+document.write("<br>", a[0]);
+document.write("<br>", a[1]); 
+document.write("<br>", a[2]); 
+document.write("<br>", a[3]); 
+document.write("<br>", a[4]); 
+document.write("<br>", a[5]); 
+
+</script>
+</head>
+</html>
+
+46.
+<html>
+    <head>
+        <script>
+let a=[];
+for(let i=0;i<5;i++){
+    a[i] = parseInt(prompt("Enter of aray value : "));
+}
+for(let i=0;i<5;i++){
+    document.write("<br>",a[i]);
+}
+
+</script>
+</head>
+</html>
+47.
+
+<html>
+    <head>
+        <script>
+let a=[];
+let sum=0;
+for(let i=0;i<10;i++){
+    a[i] = parseInt(prompt("Enter of aray value : "));
+}
+for(let i=0;i<10;i++)
+{
+    document.write("<br>",a[i]);
+    sum=sum+a[i];
+}
+document.write("<br> sum=",sum);
+
+</script>
+</head>
+</html>
+48.
+<html>
+<head>
+    <script>
+var a=[] ,sum=0;
+var j,i;
+for (i=0;i<=10;i++)
+{
+a[i] = parseInt(prompt("Enter of aray value : "));
+}
+for (j=0;j<=10;j++){
+document.write('<br>',a[j]);
+sum=sum+a[j];
+avg=sum%10;
+}
+document.write('<br> avg=',avg);
+    </script>
+</head>
+<body>
+</body>
+</html>
+49.-------------------------------->
+50.-------------------------------->
+51------------------------------>
+52.--------------------------------->
+
+53.
+
+<html>
+<head>
+    <script>
+document.write(' shalu');
+    </script>
+</head>
+<body>
+</body>
+</html>
+
+54.
+
+<html>
+<head>
+    <script>
+        let string = prompt('Enter a string: ');
+document.write('',string);
+    </script>
+</head>
+<body>
+</body>
+</html>
+55.
+
+function reverseString(str) {
+
+    
+    const arrayStrings = str.split("");
+   
+    
+    const reverseArray = arrayStrings.reverse();
+ 
+
+    const joinArray = reverseArray.join("");
+    
+    
+    return joinArray;
+}
+ 
+
+const string = prompt('Enter a string: ');
+
+const result = reverseString(string);
+console.log(result);
+
+56.
+
+function checkPalindrome(string) {
+
+    const len = string.length;
+
+
+    for (let i = 0; i < len / 2; i++) {
+
+    
+        if (string[i] !== string[len - 1 - i]) {
+            return 'It is not a palindrome';
+        }
+    }
+    return 'It is a palindrome';
+}
+const string = prompt('Enter a string: ');
+
+const value = checkPalindrome(string);
+
+console.log(value);
+
